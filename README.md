@@ -1,7 +1,7 @@
 Chat App Mobil 
 
 Frontend Uygulamasının React.Native'e uyarlanmış hali.
-Elementler React.Native'e uygun olucak şekilde güncellendi. <View>, <Text>, <TouchableOpacity>, <TextInput> 
+Elementler React.Native'e uygun olucak şekilde güncellendi. View, Text, TouchableOpacity, TextInput 
 
 Navigator yapısı kuruldu.
 Css yerine StyleSheet.Create kullanıldı.
